@@ -1,0 +1,19 @@
+
+<div class="pull-left galleryWrap">
+	<div class="viewWindow">
+		<ul class="galleryScroll" ng-style="listposition">
+			<li ng-repeat="img in item.allImgPaths" data-ng-init="init()">
+				<img ng-src="{{img}}" class="mainImg" />
+			</li>
+		</ul>
+	</div>
+	<ul class="galleryNav clearfix">
+		<li data-ng-init="init()" ng-repeat="img in item.allImgPaths" ng-click="scrollTo(img,$index)" class="dot">•</li>
+	</ul>
+</div>
+<div class="pull-right">
+	<h1>{{item.name}}</h1>
+	<h2>{{item.designer}}</h2>
+	<h3>${{item.price}}</h3>
+	{{item.description}}
+</div>

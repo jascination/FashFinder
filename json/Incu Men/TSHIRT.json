@@ -1,0 +1,27 @@
+{
+    "name": "TSHIRT",
+    "systemName": "TSHIRT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/lyle-scott\/tshirt-white\/",
+    "description": "                 Lyle &amp; Scott tshirt has a round neck, short sleeves, small Golden Eagle badge on left chest, ribbed neckline, slim fitting, trim stitching, patch detail on shoulders                                               Colour: White                                                              ",
+    "mainImage": "\/media\/cache\/07\/7c\/077cc9e7ca5cd620fc67057cf66e7b64.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/cb\/49\/cb4965e7974b4e819ce9ac942c62743c.jpg",
+        "2": "\/media\/cache\/78\/25\/7825df210e889c8fb105095bc8fe750f.jpg",
+        "3": "\/media\/cache\/16\/9e\/169e5d7600e9a27952516d0760f0944a.jpg",
+        "4": "\/media\/cache\/c4\/a1\/c4a1e8dae50ce74d46bd5d3e3396dec5.jpg",
+        "5": "\/media\/cache\/46\/f6\/46f6d687549c5674977b3f380495c0c2.jpg"
+    },
+    "price": "$30.00",
+    "designer": "Lyle &amp; Scott",
+    "allImgPaths": [
+        "img\/Incu Men\/TSHIRT_0.jpg",
+        "img\/Incu Men\/\/TSHIRT_1.jpg",
+        "img\/Incu Men\/\/TSHIRT_2.jpg",
+        "img\/Incu Men\/\/TSHIRT_3.jpg",
+        "img\/Incu Men\/\/TSHIRT_4.jpg",
+        "img\/Incu Men\/\/TSHIRT_5.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "tshirts"
+}

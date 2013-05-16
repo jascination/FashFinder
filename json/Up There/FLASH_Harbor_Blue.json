@@ -1,0 +1,25 @@
+{
+    "name": "FLASH Harbor Blue",
+    "systemName": "FLASH_Harbor_Blue",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/flash-harbor-blue",
+    "description": "Le Coq Sportif Flash. Harbor Blue.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/le-coq-sportif-ss13-flash-green-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/le-coq-sportif-ss13-flash-green-2.jpg",
+        "\/sites\/default\/files\/le-coq-sportif-ss13-flash-green-3.jpg",
+        "\/sites\/default\/files\/le-coq-sportif-ss13-flash-green-4.jpg",
+        "\/sites\/default\/files\/le-coq-sportif-ss13-flash-green-5.jpg"
+    ],
+    "price": "120.00AUD",
+    "designer": "Le Coq Sportif",
+    "allImgPaths": [
+        "img\/Up There\/FLASH_Harbor_Blue_0.jpg",
+        "img\/Up There\/\/FLASH_Harbor_Blue_1.jpg",
+        "img\/Up There\/\/FLASH_Harbor_Blue_2.jpg",
+        "img\/Up There\/\/FLASH_Harbor_Blue_3.jpg",
+        "img\/Up There\/\/FLASH_Harbor_Blue_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "shoes",
+    "spec_cat": "Shoes"
+}

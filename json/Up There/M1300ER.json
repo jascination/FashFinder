@@ -1,0 +1,25 @@
+{
+    "name": "M1300ER",
+    "systemName": "M1300ER",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/m1300er",
+    "description": "New Balance M1300ER 'Day Tripper'",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/new-balance-ss13-m1300er-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/new-balance-ss13-m1300er-2.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300er-3.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300er-4.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300er-5.jpg"
+    ],
+    "price": "230.00AUD",
+    "designer": "New Balance",
+    "allImgPaths": [
+        "img\/Up There\/M1300ER_0.jpg",
+        "img\/Up There\/\/M1300ER_1.jpg",
+        "img\/Up There\/\/M1300ER_2.jpg",
+        "img\/Up There\/\/M1300ER_3.jpg",
+        "img\/Up There\/\/M1300ER_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "shoes",
+    "spec_cat": "Shoes"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "SMITH SHIRT",
+    "systemName": "SMITH_SHIRT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/weathered\/smith-shirt-tartan\/",
+    "description": "                 Weathered shirt has long sleeves with double buttoned slit, hidden button down collar with single button fastening at back, buttoned cuffs, patch pocket at front, rounded hem, back hem longer than front hem, side gusset                                               Colour: Tartan                                                              ",
+    "mainImage": "\/media\/cache\/89\/e3\/89e3c403605c200d3186153d7b8d40c7.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/10\/ec\/10ec0b95e5baf90e54ddda8d42d61109.jpg",
+        "2": "\/media\/cache\/c9\/fc\/c9fcad6ae63cce3594fd37703ca7ba0c.jpg",
+        "3": "\/media\/cache\/0b\/ee\/0bee613cb1a335aaeb35adf44b55f6f3.jpg",
+        "4": "\/media\/cache\/13\/6c\/136c6dc3e6dff318f43f4d5839a96125.jpg"
+    },
+    "price": "$100.00",
+    "designer": "Weathered",
+    "allImgPaths": [
+        "img\/Incu Men\/SMITH_SHIRT_0.jpg",
+        "img\/Incu Men\/\/SMITH_SHIRT_1.jpg",
+        "img\/Incu Men\/\/SMITH_SHIRT_2.jpg",
+        "img\/Incu Men\/\/SMITH_SHIRT_3.jpg",
+        "img\/Incu Men\/\/SMITH_SHIRT_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "shits"
+}

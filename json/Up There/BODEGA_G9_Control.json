@@ -1,0 +1,25 @@
+{
+    "name": "BODEGA G9 Control",
+    "systemName": "BODEGA_G9_Control",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/bodega-g9-control",
+    "description": "Saucony x Bodega G9 Control.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/saucony-bodega-ss13-control-grey-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/saucony-bodega-ss13-control-grey-2.jpg",
+        "\/sites\/default\/files\/saucony-bodega-ss13-control-grey-3.jpg",
+        "\/sites\/default\/files\/saucony-bodega-ss13-control-grey-4.jpg",
+        "\/sites\/default\/files\/saucony-bodega-ss13-control-grey-5.jpg"
+    ],
+    "price": "200.00AUD",
+    "designer": "SAUCONY",
+    "allImgPaths": [
+        "img\/Up There\/BODEGA_G9_Control_0.jpg",
+        "img\/Up There\/\/BODEGA_G9_Control_1.jpg",
+        "img\/Up There\/\/BODEGA_G9_Control_2.jpg",
+        "img\/Up There\/\/BODEGA_G9_Control_3.jpg",
+        "img\/Up There\/\/BODEGA_G9_Control_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "shoes",
+    "spec_cat": "Shoes"
+}

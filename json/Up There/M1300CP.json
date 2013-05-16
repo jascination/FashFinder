@@ -1,0 +1,25 @@
+{
+    "name": "M1300CP",
+    "systemName": "M1300CP",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/m1300cp",
+    "description": "New Balance M1300CP.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/new-balance-ss13-m1300cp-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/new-balance-ss13-m1300cp-2.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300cp-3.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300cp-4.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300cp-5.jpg"
+    ],
+    "price": "230.00AUD",
+    "designer": "New Balance",
+    "allImgPaths": [
+        "img\/Up There\/M1300CP_0.jpg",
+        "img\/Up There\/\/M1300CP_1.jpg",
+        "img\/Up There\/\/M1300CP_2.jpg",
+        "img\/Up There\/\/M1300CP_3.jpg",
+        "img\/Up There\/\/M1300CP_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "shoes",
+    "spec_cat": "Shoes"
+}

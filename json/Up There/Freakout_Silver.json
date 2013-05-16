@@ -1,0 +1,21 @@
+{
+    "name": "Freakout Silver",
+    "systemName": "Freakout_Silver",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/freakout-silver",
+    "description": "Freakout Keychain. Silver.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/deluxe-ss13-freak-out-key-chain-silver-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/deluxe-ss13-freak-out-key-chain-silver-2.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-freak-out-key-chain-silver-3.jpg"
+    ],
+    "price": "80.00AUD",
+    "designer": "Deluxe",
+    "allImgPaths": [
+        "img\/Up There\/Freakout_Silver_0.jpg",
+        "img\/Up There\/\/Freakout_Silver_1.jpg",
+        "img\/Up There\/\/Freakout_Silver_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "Accessories"
+}

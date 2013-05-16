@@ -1,0 +1,23 @@
+{
+    "name": "ISSUE 1",
+    "systemName": "ISSUE_1",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/made-quarterly\/issue-1\/",
+    "description": "                 Issue 1 features a United Nations of creative talent, including jewellery label Dinosaur Designs from Australia, design consultancy Nendo from Japan, motorcycle enthusiasts Wrenchmonkees from Denmark and interior architect Noe Duchafour-Lawrance from France, just to name a few.                                                                         ",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/b0\/33\/b033bd6daddc477ee812238d39130c00.jpg",
+    "moreImages": {
+        "1": "http:\/\/media.incuclothing.com\/cache\/80\/6d\/806d9e465cb52cf19988118bb575285b.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/02\/f9\/02f98f452360d432eda4acfccca9b9a5.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/37\/03\/3703a22ae00fbb06ee36724b363e2cb3.jpg"
+    },
+    "price": "$20.00",
+    "designer": "Made Quarterly",
+    "allImgPaths": [
+        "img\/Incu Men\/ISSUE_1_0.jpg",
+        "img\/Incu Men\/\/ISSUE_1_1.jpg",
+        "img\/Incu Men\/\/ISSUE_1_2.jpg",
+        "img\/Incu Men\/\/ISSUE_1_3.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "misc",
+    "spec_cat": "misc"
+}

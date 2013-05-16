@@ -1,0 +1,25 @@
+{
+    "name": "SMITH CLASSIC SHIRT",
+    "systemName": "SMITH_CLASSIC_SHIRT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/weathered\/smith-classic-shirt-blue-grey\/",
+    "description": "                 Weathered shirt has a straight cut, long sleeves with single button slit, single button collar, buttoned cuffs, curved hem, back yoke                                               Colour: Blue Grey                                                              ",
+    "mainImage": "\/media\/cache\/f2\/f4\/f2f46c1ef57effb6e2aa4a03b303d25c.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/97\/51\/97514e4734d5f1cd3f5d09061350d77e.jpg",
+        "2": "\/media\/cache\/74\/76\/74767b323854f1a2d7bec79e710ba3c5.jpg",
+        "3": "\/media\/cache\/06\/db\/06db0fa28145d123882cb2d19778b27e.jpg",
+        "4": "\/media\/cache\/8d\/d8\/8dd8d93028b454008201f44586695686.jpg"
+    },
+    "price": "$50.00",
+    "designer": "Weathered",
+    "allImgPaths": [
+        "img\/Incu Men\/SMITH_CLASSIC_SHIRT_0.jpg",
+        "img\/Incu Men\/\/SMITH_CLASSIC_SHIRT_1.jpg",
+        "img\/Incu Men\/\/SMITH_CLASSIC_SHIRT_2.jpg",
+        "img\/Incu Men\/\/SMITH_CLASSIC_SHIRT_3.jpg",
+        "img\/Incu Men\/\/SMITH_CLASSIC_SHIRT_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "shits"
+}

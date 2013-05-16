@@ -1,0 +1,25 @@
+{
+    "name": "JOHN STRIPE TEE",
+    "systemName": "JOHN_STRIPE_TEE",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/weathered\/john-stripe-tee-charcoalwhite\/",
+    "description": "                 Weathered long sleeved striped tshirt has a straight casual cut, round reinforced neckline                                               Colour: Charcoal\/White                                                              ",
+    "mainImage": "\/media\/cache\/cb\/9c\/cb9c788b4955c364f9f7d72c5fe823b8.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/e9\/14\/e914d9629932b24bf5c95973315a3828.jpg",
+        "2": "\/media\/cache\/b9\/8b\/b98ba2da257d1f67ce3f0a39d7f4abdf.jpg",
+        "3": "\/media\/cache\/b5\/1d\/b51d2a4e953adc029a01825569a33355.jpg",
+        "4": "\/media\/cache\/1c\/1b\/1c1b32eb09159fdfc9147e4901132ac7.jpg"
+    },
+    "price": "$80.00",
+    "designer": "Weathered",
+    "allImgPaths": [
+        "img\/Incu Men\/JOHN_STRIPE_TEE_0.jpg",
+        "img\/Incu Men\/\/JOHN_STRIPE_TEE_1.jpg",
+        "img\/Incu Men\/\/JOHN_STRIPE_TEE_2.jpg",
+        "img\/Incu Men\/\/JOHN_STRIPE_TEE_3.jpg",
+        "img\/Incu Men\/\/JOHN_STRIPE_TEE_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "tshirts"
+}

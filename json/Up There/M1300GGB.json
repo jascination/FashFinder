@@ -1,0 +1,25 @@
+{
+    "name": "M1300GGB",
+    "systemName": "M1300GGB",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/m1300ggb",
+    "description": "New Balance M1300GGB.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/new-balance-ss13-m1300ggb-1_0.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/new-balance-ss13-m1300ggb-2_0.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300ggb-3_0.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300ggb-4_0.jpg",
+        "\/sites\/default\/files\/new-balance-ss13-m1300ggb-5_0.jpg"
+    ],
+    "price": "230.00AUD",
+    "designer": "New Balance",
+    "allImgPaths": [
+        "img\/Up There\/M1300GGB_0.jpg",
+        "img\/Up There\/\/M1300GGB_1.jpg",
+        "img\/Up There\/\/M1300GGB_2.jpg",
+        "img\/Up There\/\/M1300GGB_3.jpg",
+        "img\/Up There\/\/M1300GGB_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "shoes",
+    "spec_cat": "Shoes"
+}

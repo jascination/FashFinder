@@ -1,0 +1,12 @@
+<div ng-controller="clothesCtrl">
+	<div>
+	  <label>Name:</label>
+	  <input type="text" placeholder="Enter a query" ng-model="query">
+		<ul class="clothes clearfix">
+		  <li class="item-list" ng-repeat="piece in clothes | filter:query" ng-class="{third: !(($index+1)%3) && !$first }">
+			<img ng-src="{{piece.mainImage[0]}}" class="thumbImg" />
+			<a href="#/json/{{piece.systemName}}">{{piece.name}}</a>
+		  </li>
+		</ul>
+	</div>
+</div>

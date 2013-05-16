@@ -1,0 +1,23 @@
+{
+    "name": "NYC T-SHIRT",
+    "systemName": "NYC_T_SHIRT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/apc\/nyc-t-shirt-white\/",
+    "description": "                 A.P.C. tshirt has a crewneck, short sleeves, postcard print of New York on front                                               Colour: White                                                              ",
+    "mainImage": "\/media\/cache\/fa\/06\/fa06b1992bb29d36a4e8bd98aa2cfdf6.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/3a\/15\/3a15b37619abc106a07434810892bb51.jpg",
+        "2": "\/media\/cache\/cd\/ad\/cdadc7be24b5d69cb4d7247eb4a113bd.jpg",
+        "3": "\/media\/cache\/68\/d1\/68d1c7829d2be8c270350c965c94cbf0.jpg"
+    },
+    "price": "$99.00",
+    "designer": "A.P.C.",
+    "allImgPaths": [
+        "img\/Incu Men\/NYC_T_SHIRT_0.jpg",
+        "img\/Incu Men\/\/NYC_T_SHIRT_1.jpg",
+        "img\/Incu Men\/\/NYC_T_SHIRT_2.jpg",
+        "img\/Incu Men\/\/NYC_T_SHIRT_3.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "tshirts"
+}

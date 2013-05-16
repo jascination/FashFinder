@@ -1,0 +1,25 @@
+{
+    "name": "ISSUE ELEVEN",
+    "systemName": "ISSUE_ELEVEN",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/anthology-magazine\/issue-eleven\/",
+    "description": "                 Issue 11 of Anthology's theme revolves around food and drink with features including a look at the city of Oakland in the San Franciscan Bay Area, a birthday party menu deisgned by an LA chef and a French cooking school started by a mother and daughter who use regional produce                                                                         ",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/87\/7f\/877fea86273a1b719d81af5be2d91788.jpg",
+    "moreImages": {
+        "1": "http:\/\/media.incuclothing.com\/cache\/c9\/2e\/c92e4355f02d6f32fef760c03922db2f.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/b7\/17\/b717a70d6d7a36bed4757a5aae7a6572.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/46\/75\/46758e1144f22b598343e2de59236e56.jpg",
+        "4": "http:\/\/media.incuclothing.com\/cache\/4e\/69\/4e69823b4e702681e0647ce99ecb7fe6.jpg"
+    },
+    "price": "$15.00",
+    "designer": "Anthology Magazine",
+    "allImgPaths": [
+        "img\/Incu Men\/ISSUE_ELEVEN_0.jpg",
+        "img\/Incu Men\/\/ISSUE_ELEVEN_1.jpg",
+        "img\/Incu Men\/\/ISSUE_ELEVEN_2.jpg",
+        "img\/Incu Men\/\/ISSUE_ELEVEN_3.jpg",
+        "img\/Incu Men\/\/ISSUE_ELEVEN_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "misc",
+    "spec_cat": "misc"
+}

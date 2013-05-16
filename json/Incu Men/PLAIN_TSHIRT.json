@@ -1,0 +1,25 @@
+{
+    "name": "PLAIN TSHIRT",
+    "systemName": "PLAIN_TSHIRT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/lyle-scott\/plain-tshirt-red\/",
+    "description": "                 Lyle &amp; Scott tshirt has a round neckline, short sleeves, small Golden Eagle badge on left chest, slim fitting                                               Colour: Red                                                              ",
+    "mainImage": "\/media\/cache\/db\/fb\/dbfbd63f4494c8100043637585a04e95.jpg",
+    "moreImages": {
+        "1": "\/media\/cache\/45\/9e\/459eb7f961a1305d92998ee95ba71ce8.jpg",
+        "2": "\/media\/cache\/d8\/92\/d892e6f2fff2d4c5f96a88228facbb29.jpg",
+        "3": "\/media\/cache\/46\/13\/4613b9e1f2220ee600e6519f81ecff6e.jpg",
+        "4": "\/media\/cache\/21\/34\/21347cc2e36a887b48973517f7840156.jpg"
+    },
+    "price": "$30.00",
+    "designer": "Lyle &amp; Scott",
+    "allImgPaths": [
+        "img\/Incu Men\/PLAIN_TSHIRT_0.jpg",
+        "img\/Incu Men\/\/PLAIN_TSHIRT_1.jpg",
+        "img\/Incu Men\/\/PLAIN_TSHIRT_2.jpg",
+        "img\/Incu Men\/\/PLAIN_TSHIRT_3.jpg",
+        "img\/Incu Men\/\/PLAIN_TSHIRT_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "tshirts"
+}

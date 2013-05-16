@@ -1,0 +1,25 @@
+{
+    "name": "STRIPE KNIT",
+    "systemName": "STRIPE_KNIT",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/apc\/stripe-knit-navywhite\/",
+    "description": "                 A.P.C. super soft pullover has a crew neck, long sleeves, ribbed neck, cuffs and hem                                               Colour: Navy\/White                                                              ",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/18\/b1\/18b1f47d9f3dab3805b5b1955c1f31a5.jpg",
+    "moreImages": {
+        "1": "http:\/\/media.incuclothing.com\/cache\/c0\/42\/c042cfd61314d3cbbffb325eb4257c4c.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/76\/fd\/76fd6c9812a527db08cca9a2168de051.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/83\/ce\/83ce05ea1128ebdae8fa2d00cd8e0115.jpg",
+        "4": "http:\/\/media.incuclothing.com\/cache\/17\/72\/1772b677847b63eb61bf47df8414b1e4.jpg"
+    },
+    "price": "$259.00",
+    "designer": "A.P.C.",
+    "allImgPaths": [
+        "img\/Incu Men\/STRIPE_KNIT_0.jpg",
+        "img\/Incu Men\/\/STRIPE_KNIT_1.jpg",
+        "img\/Incu Men\/\/STRIPE_KNIT_2.jpg",
+        "img\/Incu Men\/\/STRIPE_KNIT_3.jpg",
+        "img\/Incu Men\/\/STRIPE_KNIT_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "knits"
+}

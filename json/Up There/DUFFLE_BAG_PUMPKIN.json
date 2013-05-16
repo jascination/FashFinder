@@ -1,0 +1,25 @@
+{
+    "name": "DUFFLE BAG PUMPKIN",
+    "systemName": "DUFFLE_BAG_PUMPKIN",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/duffle-bag-pumpkin",
+    "description": "Parabellum Medicine Man Duffle Bag. Pumpkin.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/parabellum-fw12-medicineman-duffle-bag-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/parabellum-fw12-medicineman-duffle-bag-2.jpg",
+        "\/sites\/default\/files\/parabellum-fw12-medicineman-duffle-bag-3.jpg",
+        "\/sites\/default\/files\/parabellum-fw12-medicineman-duffle-bag-4.jpg",
+        "\/sites\/default\/files\/parabellum-fw12-medicineman-duffle-bag-5.jpg"
+    ],
+    "price": "2600.00AUD",
+    "designer": "PARABELLUM",
+    "allImgPaths": [
+        "img\/Up There\/DUFFLE_BAG_PUMPKIN_0.jpg",
+        "img\/Up There\/\/DUFFLE_BAG_PUMPKIN_1.jpg",
+        "img\/Up There\/\/DUFFLE_BAG_PUMPKIN_2.jpg",
+        "img\/Up There\/\/DUFFLE_BAG_PUMPKIN_3.jpg",
+        "img\/Up There\/\/DUFFLE_BAG_PUMPKIN_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "Accessories"
+}

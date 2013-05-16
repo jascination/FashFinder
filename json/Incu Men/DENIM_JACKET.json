@@ -1,0 +1,25 @@
+{
+    "name": "DENIM JACKET",
+    "systemName": "DENIM_JACKET",
+    "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/apc\/denim-jacket-red\/",
+    "description": "                 A.P.C. overdyed denim jacket has a cropped fit, front button fastening, breast pockets with rounded buttoned flaps, back yoke, waistband with snap tabs at back hem, unlined                                               Colour: Red                                                              ",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/a9\/6b\/a96b1671b822f5adf58eb5b62cd18070.jpg",
+    "moreImages": {
+        "1": "http:\/\/media.incuclothing.com\/cache\/a0\/78\/a078228a4df64e8a8accb0bf111c45fe.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/7e\/a7\/7ea7bf4b80e18edffaeda96fc6723e71.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/93\/a3\/93a3c5b1ceab2ac7b0e6c57da0242247.jpg",
+        "4": "http:\/\/media.incuclothing.com\/cache\/f9\/92\/f9924b2061c8c3813ccbbfe364d174ce.jpg"
+    },
+    "price": "$319.00",
+    "designer": "A.P.C.",
+    "allImgPaths": [
+        "img\/Incu Men\/DENIM_JACKET_0.jpg",
+        "img\/Incu Men\/\/DENIM_JACKET_1.jpg",
+        "img\/Incu Men\/\/DENIM_JACKET_2.jpg",
+        "img\/Incu Men\/\/DENIM_JACKET_3.jpg",
+        "img\/Incu Men\/\/DENIM_JACKET_4.jpg"
+    ],
+    "store": "Incu Men",
+    "category": "clothes",
+    "spec_cat": "jackets"
+}
