@@ -1,0 +1,21 @@
+{
+    "name": "GARY GREY",
+    "systemName": "GARY_GREY",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/gary-grey",
+    "description": "Relax Socks Gary. Grey.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-gary-grey-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-gary-grey-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-gary-grey-3.jpg"
+    ],
+    "price": "25.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/GARY_GREY_0.jpg",
+        "img\/Up There\/\/GARY_GREY_1.jpg",
+        "img\/Up There\/\/GARY_GREY_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

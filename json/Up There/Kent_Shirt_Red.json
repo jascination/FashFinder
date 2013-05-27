@@ -1,0 +1,25 @@
+{
+    "name": "Kent Shirt Red",
+    "systemName": "Kent_Shirt_Red",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/kent-shirt-red",
+    "description": "Whillas &amp; Gunn Kent Shirt. Red.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/whillas-and-gunn-ss13-kent-shirt-red-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/whillas-and-gunn-ss13-kent-shirt-red-2.jpg",
+        "\/sites\/default\/files\/whillas-and-gunn-ss13-kent-shirt-red-3.jpg",
+        "\/sites\/default\/files\/whillas-and-gunn-ss13-kent-shirt-red-4.jpg",
+        "\/sites\/default\/files\/whillas-and-gunn-ss13-kent-shirt-red-5.jpg"
+    ],
+    "price": "150.00AUD",
+    "designer": "WHILLAS and GUNN",
+    "allImgPaths": [
+        "img\/Up There\/Kent_Shirt_Red_0.jpg",
+        "img\/Up There\/\/Kent_Shirt_Red_1.jpg",
+        "img\/Up There\/\/Kent_Shirt_Red_2.jpg",
+        "img\/Up There\/\/Kent_Shirt_Red_3.jpg",
+        "img\/Up There\/\/Kent_Shirt_Red_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

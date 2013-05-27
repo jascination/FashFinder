@@ -1,0 +1,25 @@
+{
+    "name": "Clarke Shirt Red Was $150, NOW",
+    "systemName": "Clarke_Shirt_Red_Was_150_NOW",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/clarke-shirt-red-was-150-now",
+    "description": "Deluxe Clarke Shirt. Red Stripe.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/deluxe_fw11_clarke_red_1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/deluxe_fw11_clarke_red_2.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_clarke_shirt_red_3_0.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_clarke_shirt_red_4_0.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_clarke_red_5.jpg"
+    ],
+    "price": "125.00AUD",
+    "designer": "Deluxe",
+    "allImgPaths": [
+        "img\/Up There\/Clarke_Shirt_Red_Was_150_NOW_0.jpg",
+        "img\/Up There\/\/Clarke_Shirt_Red_Was_150_NOW_1.jpg",
+        "img\/Up There\/\/Clarke_Shirt_Red_Was_150_NOW_2.jpg",
+        "img\/Up There\/\/Clarke_Shirt_Red_Was_150_NOW_3.jpg",
+        "img\/Up There\/\/Clarke_Shirt_Red_Was_150_NOW_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

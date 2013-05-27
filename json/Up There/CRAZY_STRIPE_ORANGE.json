@@ -1,0 +1,25 @@
+{
+    "name": "CRAZY STRIPE ORANGE",
+    "systemName": "CRAZY_STRIPE_ORANGE",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/crazy-stripe-orange",
+    "description": "Monitaly Crazy Stripe T-shirt. Orange.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/monitaly-ss13-crazy-stripe-shirt-2-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/monitaly-ss13-crazy-stripe-shirt-2-2.jpg",
+        "\/sites\/default\/files\/monitaly-ss13-crazy-stripe-shirt-2-3.jpg",
+        "\/sites\/default\/files\/monitaly-ss13-crazy-stripe-shirt-2-4.jpg",
+        "\/sites\/default\/files\/monitaly-ss13-crazy-stripe-shirt-2-5.jpg"
+    ],
+    "price": "95.00AUD",
+    "designer": "MONITALY",
+    "allImgPaths": [
+        "img\/Up There\/CRAZY_STRIPE_ORANGE_0.jpg",
+        "img\/Up There\/\/CRAZY_STRIPE_ORANGE_1.jpg",
+        "img\/Up There\/\/CRAZY_STRIPE_ORANGE_2.jpg",
+        "img\/Up There\/\/CRAZY_STRIPE_ORANGE_3.jpg",
+        "img\/Up There\/\/CRAZY_STRIPE_ORANGE_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "tshirts"
+}

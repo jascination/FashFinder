@@ -1,5 +1,34 @@
 // Styles
 
+//swipe.js style
+
+.swipe {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+  max-width:800px;
+  margin: 0 auto;
+}
+.swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.swipe-wrap > div {
+  float:left;
+  width:100%;
+  position: relative;
+}
+
+//end Swipe.js
+
+.wrap{
+	max-width:960px;
+	margin:0 auto;
+	display:block;
+	padding: 0 2em;
+	text-align:center;
+}
+
 .link{
 	color:orange;
 }
@@ -14,8 +43,7 @@
 }
 
 .mainImg{
-	max-width:420px;
-	width:100%;
+
 }
 
 .galleryWrap{
@@ -51,7 +79,7 @@
 }
 
 .viewWindow{
-	width:420px;
+	width:293px;
 	height:486px;
 	overflow:hidden;
 	position:relative;
@@ -74,18 +102,43 @@
 	max-width:800px;
 }
 
+.clothes-detail{
+	margin:0;
+	padding:0;
+}
+
+.detail-info{
+}
+
+
 .item-list{
 	float:left;
 	width:26%;
 	margin-right:11%;
-	height:300px;
-	margin-bottom:20px; 
+	height:400px;
 	
 	&.third{
 		margin-right:0;
 	}
 	
 	img{
+		width:100%;
+	}
+}
+
+// Queries to fix grid layout
+
+@media (max-width : 710px){
+	.item-list{
+		height:320px;
+	}
+}
+
+@media (max-width : 450px){
+	.item-list{
+		height:auto;
+		display:block;
+		float:none;
 		width:100%;
 	}
 }

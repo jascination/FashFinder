@@ -1,0 +1,21 @@
+{
+    "name": "Reginald Sock Three Pack",
+    "systemName": "Reginald_Sock_Three_Pack",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/reginald-sock-three-pack",
+    "description": "Relax Reginald Socks. Three Pack includes Navy, Sky Blue and Putty.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-socks-fw12-relax-reginald-three-pack-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-socks-fw12-relax-reginald-three-pack-2.jpg",
+        "\/sites\/default\/files\/relax-socks-fw12-relax-reginald-three-pack-3.jpg"
+    ],
+    "price": "70.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Reginald_Sock_Three_Pack_0.jpg",
+        "img\/Up There\/\/Reginald_Sock_Three_Pack_1.jpg",
+        "img\/Up There\/\/Reginald_Sock_Three_Pack_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

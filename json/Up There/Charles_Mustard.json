@@ -1,0 +1,21 @@
+{
+    "name": "Charles Mustard",
+    "systemName": "Charles_Mustard",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/charles-mustard",
+    "description": "Relax Socks Charles. Mustard.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-charles-mustard-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-charles-mustard-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-charles-mustard-3.jpg"
+    ],
+    "price": "25.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Charles_Mustard_0.jpg",
+        "img\/Up There\/\/Charles_Mustard_1.jpg",
+        "img\/Up There\/\/Charles_Mustard_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gary Three Pack",
+    "systemName": "Gary_Three_Pack",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/gary-three-pack",
+    "description": "Relax Socks Gary. Three pack.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-gary-three-pack-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-gary-three-pack-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-gary-three-pack-3.jpg",
+        "\/sites\/default\/files\/relax-fw12_gary_three_pack_4.jpg",
+        "\/sites\/default\/files\/relax-fw12-gary-three-pack-5.jpg"
+    ],
+    "price": "70.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Gary_Three_Pack_0.jpg",
+        "img\/Up There\/\/Gary_Three_Pack_1.jpg",
+        "img\/Up There\/\/Gary_Three_Pack_2.jpg",
+        "img\/Up There\/\/Gary_Three_Pack_3.jpg",
+        "img\/Up There\/\/Gary_Three_Pack_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

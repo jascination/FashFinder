@@ -1,0 +1,21 @@
+{
+    "name": "DOT BLACK",
+    "systemName": "DOT_BLACK",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dot-black",
+    "description": "Relax Socks Dot Black.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-dot-black-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-dot-black-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-black-3.jpg"
+    ],
+    "price": "20.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/DOT_BLACK_0.jpg",
+        "img\/Up There\/\/DOT_BLACK_1.jpg",
+        "img\/Up There\/\/DOT_BLACK_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

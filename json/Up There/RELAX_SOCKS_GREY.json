@@ -1,0 +1,21 @@
+{
+    "name": "RELAX SOCKS GREY",
+    "systemName": "RELAX_SOCKS_GREY",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/relax-socks-grey",
+    "description": "Relax Navajo Socks. Orange.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-socks-grey-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-socks-grey-2.jpg",
+        "\/sites\/default\/files\/relax-socks-grey-3.jpg"
+    ],
+    "price": "25.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/RELAX_SOCKS_GREY_0.jpg",
+        "img\/Up There\/\/RELAX_SOCKS_GREY_1.jpg",
+        "img\/Up There\/\/RELAX_SOCKS_GREY_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

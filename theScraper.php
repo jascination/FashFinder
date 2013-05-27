@@ -25,8 +25,7 @@ function curl($url)
 function getLinks($url, $prodURL, $baseURL, $next_select)
 {
     $urls = array();
-    ob_flush();
-	flush();
+
     while ($url) {
         echo "Indexing: $url" . PHP_EOL;
         $html = str_get_html(curl($url));
@@ -38,8 +37,6 @@ function getLinks($url, $prodURL, $baseURL, $next_select)
         $next = $html->find($next_select, 0);
         $url  = $next ? $baseURL . $next->href : null;
     }
-    ob_flush();
-	flush();
     return $urls;
 }
 
@@ -163,8 +160,7 @@ function getInfo($infoLink, $jsonLinks, $baseURL, $catURL, $store, $general_cat,
     
     echo "Writing: $infoLink" . PHP_EOL;
     
-    ob_flush();
-	flush();
+
     //Return $product->systemName .".json" if using individual files
     $snippet             = New Snippet;
     $snippet->mainImage  = $product->allImgPaths;
@@ -219,16 +215,12 @@ function workerFile($array, $mainImgRef, $moreImgRef)
         fclose($fp);
         
         echo "Writing: $general_cat JSON" . PHP_EOL;
-        
-        ob_flush();
-		flush();
+
     }
 }
 
 echo "Writing: Up There Json" . PHP_EOL;
 
-ob_flush();
-flush();
 
 $string     = file_get_contents("jsonWorkers/upThere.json");
 $upThereArr = json_decode($string, true);
@@ -236,8 +228,6 @@ workerFile($upThereArr, 'src', 'href');
 
 echo "Writing: Incu Json" . PHP_EOL;
 
-ob_flush();
-flush();
 
 $string  = file_get_contents("jsonWorkers/incuMens.json");
 $incuArr = json_decode($string, true);

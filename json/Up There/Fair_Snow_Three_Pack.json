@@ -1,0 +1,25 @@
+{
+    "name": "Fair Snow Three Pack",
+    "systemName": "Fair_Snow_Three_Pack",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/fair-snow-three-pack",
+    "description": "Chup Fair Snow. Three Pack.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/chup-fw12-fairsnow-3-pack-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/chup-fw12_fairsnow_3_pack_2.jpg",
+        "\/sites\/default\/files\/chup-fw12-fairsnow-3-pack-3.jpg",
+        "\/sites\/default\/files\/chup-fw12-fairsnow-3-pack-4.jpg",
+        "\/sites\/default\/files\/chup-fw12-fairsnow-3-pack-5.jpg"
+    ],
+    "price": "99.00AUD",
+    "designer": "CHUP",
+    "allImgPaths": [
+        "img\/Up There\/Fair_Snow_Three_Pack_0.jpg",
+        "img\/Up There\/\/Fair_Snow_Three_Pack_1.jpg",
+        "img\/Up There\/\/Fair_Snow_Three_Pack_2.jpg",
+        "img\/Up There\/\/Fair_Snow_Three_Pack_3.jpg",
+        "img\/Up There\/\/Fair_Snow_Three_Pack_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

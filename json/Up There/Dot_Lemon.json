@@ -1,0 +1,21 @@
+{
+    "name": "Dot Lemon",
+    "systemName": "Dot_Lemon",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dot-lemon",
+    "description": "Relax Socks Dot Lemon.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-dot-lemon-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-dot-lemon-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-lemon-3.jpg"
+    ],
+    "price": "20.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Dot_Lemon_0.jpg",
+        "img\/Up There\/\/Dot_Lemon_1.jpg",
+        "img\/Up There\/\/Dot_Lemon_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

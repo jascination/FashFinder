@@ -1,0 +1,25 @@
+{
+    "name": "AZTEC SOCK THREE PACK",
+    "systemName": "AZTEC_SOCK_THREE_PACK",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/aztec-sock-three-pack",
+    "description": "Relax Aztec Socks. Three Pack includes Navy, Mustard, and Black.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-aztec-sock-three-pack-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-aztec-sock-three-pack-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-aztec-sock-three-pack-3.jpg",
+        "\/sites\/default\/files\/relax-fw12-aztec-sock-three-pack-4.jpg",
+        "\/sites\/default\/files\/relax-fw12-aztec-sock-three-pack-5.jpg"
+    ],
+    "price": "70.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/AZTEC_SOCK_THREE_PACK_0.jpg",
+        "img\/Up There\/\/AZTEC_SOCK_THREE_PACK_1.jpg",
+        "img\/Up There\/\/AZTEC_SOCK_THREE_PACK_2.jpg",
+        "img\/Up There\/\/AZTEC_SOCK_THREE_PACK_3.jpg",
+        "img\/Up There\/\/AZTEC_SOCK_THREE_PACK_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

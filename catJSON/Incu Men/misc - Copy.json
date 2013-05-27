@@ -1,0 +1,239 @@
+[
+    {
+        "mainImage": [
+            "img\/Incu Men\/SATURDAYS_MAGAZINE_ISSUE_2_0.jpg",
+            "img\/Incu Men\/\/SATURDAYS_MAGAZINE_ISSUE_2_1.jpg",
+            "img\/Incu Men\/\/SATURDAYS_MAGAZINE_ISSUE_2_2.jpg",
+            "img\/Incu Men\/\/SATURDAYS_MAGAZINE_ISSUE_2_3.jpg",
+            "img\/Incu Men\/\/SATURDAYS_MAGAZINE_ISSUE_2_4.jpg",
+            "img\/Incu Men\/\/SATURDAYS_MAGAZINE_ISSUE_2_5.jpg"
+        ],
+        "name": "SATURDAYS MAGAZINE ISSUE 2",
+        "designer": "Saturdays Surf NYC",
+        "price": "$25.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "SATURDAYS_MAGAZINE_ISSUE_2"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_ELEVEN_0.jpg",
+            "img\/Incu Men\/\/ISSUE_ELEVEN_1.jpg",
+            "img\/Incu Men\/\/ISSUE_ELEVEN_2.jpg",
+            "img\/Incu Men\/\/ISSUE_ELEVEN_3.jpg",
+            "img\/Incu Men\/\/ISSUE_ELEVEN_4.jpg"
+        ],
+        "name": "ISSUE ELEVEN",
+        "designer": "Anthology Magazine",
+        "price": "$15.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_ELEVEN"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_EIGHT_0.jpg",
+            "img\/Incu Men\/\/ISSUE_EIGHT_1.jpg",
+            "img\/Incu Men\/\/ISSUE_EIGHT_2.jpg",
+            "img\/Incu Men\/\/ISSUE_EIGHT_3.jpg",
+            "img\/Incu Men\/\/ISSUE_EIGHT_4.jpg",
+            "img\/Incu Men\/\/ISSUE_EIGHT_5.jpg"
+        ],
+        "name": "ISSUE EIGHT",
+        "designer": "Inventory Magazine",
+        "price": "$30.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_EIGHT"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_THREE_0.jpg",
+            "img\/Incu Men\/\/ISSUE_THREE_1.jpg",
+            "img\/Incu Men\/\/ISSUE_THREE_2.jpg",
+            "img\/Incu Men\/\/ISSUE_THREE_3.jpg",
+            "img\/Incu Men\/\/ISSUE_THREE_4.jpg",
+            "img\/Incu Men\/\/ISSUE_THREE_5.jpg"
+        ],
+        "name": "ISSUE THREE",
+        "designer": "Man of the World",
+        "price": "$20.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_THREE"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/THE_GOURMAND_MAGAZINE_ISSUE_01_0.jpg",
+            "img\/Incu Men\/\/THE_GOURMAND_MAGAZINE_ISSUE_01_1.jpg",
+            "img\/Incu Men\/\/THE_GOURMAND_MAGAZINE_ISSUE_01_2.jpg",
+            "img\/Incu Men\/\/THE_GOURMAND_MAGAZINE_ISSUE_01_3.jpg",
+            "img\/Incu Men\/\/THE_GOURMAND_MAGAZINE_ISSUE_01_4.jpg"
+        ],
+        "name": "THE GOURMAND MAGAZINE ISSUE 01",
+        "designer": "The Gourmand Magazine",
+        "price": "$19.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "THE_GOURMAND_MAGAZINE_ISSUE_01"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/WINTER_ISSUE_11_0.jpg",
+            "img\/Incu Men\/\/WINTER_ISSUE_11_1.jpg",
+            "img\/Incu Men\/\/WINTER_ISSUE_11_2.jpg",
+            "img\/Incu Men\/\/WINTER_ISSUE_11_3.jpg",
+            "img\/Incu Men\/\/WINTER_ISSUE_11_4.jpg"
+        ],
+        "name": "WINTER ISSUE 11",
+        "designer": "Obscura Magazine",
+        "price": "$35.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "WINTER_ISSUE_11"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_4_0.jpg",
+            "img\/Incu Men\/\/ISSUE_4_1.jpg",
+            "img\/Incu Men\/\/ISSUE_4_2.jpg",
+            "img\/Incu Men\/\/ISSUE_4_3.jpg"
+        ],
+        "name": "ISSUE 4",
+        "designer": "Travel Almanac",
+        "price": "$20.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_4"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_NO_7_0.jpg",
+            "img\/Incu Men\/\/ISSUE_NO_7_1.jpg",
+            "img\/Incu Men\/\/ISSUE_NO_7_2.jpg",
+            "img\/Incu Men\/\/ISSUE_NO_7_3.jpg",
+            "img\/Incu Men\/\/ISSUE_NO_7_4.jpg",
+            "img\/Incu Men\/\/ISSUE_NO_7_5.jpg"
+        ],
+        "name": "ISSUE NO 7",
+        "designer": "The New Order Magazine",
+        "price": "$29.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_NO_7"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_7_0.jpg",
+            "img\/Incu Men\/\/ISSUE_7_1.jpg",
+            "img\/Incu Men\/\/ISSUE_7_2.jpg",
+            "img\/Incu Men\/\/ISSUE_7_3.jpg",
+            "img\/Incu Men\/\/ISSUE_7_4.jpg"
+        ],
+        "name": "ISSUE 7",
+        "designer": "Inventory Magazine",
+        "price": "$30.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_7"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_1_0.jpg",
+            "img\/Incu Men\/\/ISSUE_1_1.jpg",
+            "img\/Incu Men\/\/ISSUE_1_2.jpg",
+            "img\/Incu Men\/\/ISSUE_1_3.jpg"
+        ],
+        "name": "ISSUE 1",
+        "designer": "Made Quarterly",
+        "price": "$20.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_1"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/PROPER_MAGAZINE_ISSUE_12_0.jpg",
+            "img\/Incu Men\/\/PROPER_MAGAZINE_ISSUE_12_1.jpg",
+            "img\/Incu Men\/\/PROPER_MAGAZINE_ISSUE_12_2.jpg",
+            "img\/Incu Men\/\/PROPER_MAGAZINE_ISSUE_12_3.jpg"
+        ],
+        "name": "PROPER MAGAZINE ISSUE 12",
+        "designer": "Proper Magazine",
+        "price": "$15.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "PROPER_MAGAZINE_ISSUE_12"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/CHAMP_MAGAZINE_ISSUE_5_0.jpg",
+            "img\/Incu Men\/\/CHAMP_MAGAZINE_ISSUE_5_1.jpg",
+            "img\/Incu Men\/\/CHAMP_MAGAZINE_ISSUE_5_2.jpg",
+            "img\/Incu Men\/\/CHAMP_MAGAZINE_ISSUE_5_3.jpg"
+        ],
+        "name": "CHAMP MAGAZINE ISSUE 5",
+        "designer": "Champ Magazine",
+        "price": "$24.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "CHAMP_MAGAZINE_ISSUE_5"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/MONOCLE_ISSUE_56_0.jpg",
+            "img\/Incu Men\/\/MONOCLE_ISSUE_56_1.jpg",
+            "img\/Incu Men\/\/MONOCLE_ISSUE_56_2.jpg",
+            "img\/Incu Men\/\/MONOCLE_ISSUE_56_3.jpg"
+        ],
+        "name": "MONOCLE ISSUE 56",
+        "designer": "Monocle Magazine",
+        "price": "$20.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "MONOCLE_ISSUE_56"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/VESTOJ_MAGAZINE_ISSUE_3_0.jpg",
+            "img\/Incu Men\/\/VESTOJ_MAGAZINE_ISSUE_3_1.jpg",
+            "img\/Incu Men\/\/VESTOJ_MAGAZINE_ISSUE_3_2.jpg"
+        ],
+        "name": "VESTOJ MAGAZINE ISSUE 3",
+        "designer": "Vestoj",
+        "price": "$25.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "VESTOJ_MAGAZINE_ISSUE_3"
+    },
+    {
+        "mainImage": [
+            "img\/Incu Men\/ISSUE_3_0.jpg",
+            "img\/Incu Men\/\/ISSUE_3_1.jpg",
+            "img\/Incu Men\/\/ISSUE_3_2.jpg",
+            "img\/Incu Men\/\/ISSUE_3_3.jpg",
+            "img\/Incu Men\/\/ISSUE_3_4.jpg"
+        ],
+        "name": "ISSUE 3",
+        "designer": "The Travel Almanac",
+        "price": "$20.00",
+        "store": "Incu Men",
+        "category": "misc",
+        "spec_cat": "misc",
+        "systemName": "ISSUE_3"
+    }
+]

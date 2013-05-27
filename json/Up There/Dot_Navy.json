@@ -1,0 +1,21 @@
+{
+    "name": "Dot Navy",
+    "systemName": "Dot_Navy",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dot-navy",
+    "description": "Relax Socks Dot Navy.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-dot-navy-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-dot-navy-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-navy-3.jpg"
+    ],
+    "price": "20.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Dot_Navy_0.jpg",
+        "img\/Up There\/\/Dot_Navy_1.jpg",
+        "img\/Up There\/\/Dot_Navy_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

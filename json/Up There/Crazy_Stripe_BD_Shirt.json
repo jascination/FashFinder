@@ -1,0 +1,25 @@
+{
+    "name": "Crazy Stripe BD Shirt",
+    "systemName": "Crazy_Stripe_BD_Shirt",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/crazy-stripe-bd-shirt",
+    "description": "Sunny Sports Crazy Stripe BD Shirt.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/sunny-sports-ss13-crazy-stripe-bd-shirt-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/sunny-sports-ss13-crazy-stripe-bd-shirt-2.jpg",
+        "\/sites\/default\/files\/sunny-sports-ss13-crazy-stripe-bd-shirt-3.jpg",
+        "\/sites\/default\/files\/sunny-sports-ss13-crazy-stripe-bd-shirt-4.jpg",
+        "\/sites\/default\/files\/sunny-sports-ss13-crazy-stripe-bd-shirt-5.jpg"
+    ],
+    "price": "302.00AUD",
+    "designer": "Sunny Sports",
+    "allImgPaths": [
+        "img\/Up There\/Crazy_Stripe_BD_Shirt_0.jpg",
+        "img\/Up There\/\/Crazy_Stripe_BD_Shirt_1.jpg",
+        "img\/Up There\/\/Crazy_Stripe_BD_Shirt_2.jpg",
+        "img\/Up There\/\/Crazy_Stripe_BD_Shirt_3.jpg",
+        "img\/Up There\/\/Crazy_Stripe_BD_Shirt_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

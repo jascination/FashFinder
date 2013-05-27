@@ -1,0 +1,25 @@
+{
+    "name": "Lodi Blue",
+    "systemName": "Lodi_Blue",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/lodi-blue",
+    "description": "Lodi Shirt. Blue.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/deluxe-ss13-lodi-dot-shirt-blue-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-blue-2.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-blue-3.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-blue-4.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-blue-5.jpg"
+    ],
+    "price": "180.00AUD",
+    "designer": "Deluxe",
+    "allImgPaths": [
+        "img\/Up There\/Lodi_Blue_0.jpg",
+        "img\/Up There\/\/Lodi_Blue_1.jpg",
+        "img\/Up There\/\/Lodi_Blue_2.jpg",
+        "img\/Up There\/\/Lodi_Blue_3.jpg",
+        "img\/Up There\/\/Lodi_Blue_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

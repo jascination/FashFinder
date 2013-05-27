@@ -3,12 +3,12 @@
     "systemName": "GRANT_BOARD_SHORTS",
     "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/saturdays-surf-nyc\/grant-board-shorts-black\/",
     "description": "                 Saturdays Surf NYC nylon boardshorts have a 15\" leg, double lined, velcro fly, cotton drawstring closure, single back pocket with snap button closure and eyelet, sewn logo on leg                                               Colour: Black                                                              ",
-    "mainImage": "\/media\/cache\/2c\/75\/2c756b0365e7fa7665b589b9eede4354.jpg",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/2c\/75\/2c756b0365e7fa7665b589b9eede4354.jpg",
     "moreImages": {
-        "1": "\/media\/cache\/cd\/a2\/cda2c125db09bbafa66f6d54295a90d3.jpg",
-        "2": "\/media\/cache\/93\/5f\/935fa1b026a380b1e6017656575aa81f.jpg",
-        "3": "\/media\/cache\/7e\/e7\/7ee74b0ffdd0f08081d8810ad25751cd.jpg",
-        "4": "\/media\/cache\/55\/39\/553979f91c5dc79c897e2de07d5f14d9.jpg"
+        "1": "http:\/\/media.incuclothing.com\/cache\/cd\/a2\/cda2c125db09bbafa66f6d54295a90d3.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/93\/5f\/935fa1b026a380b1e6017656575aa81f.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/7e\/e7\/7ee74b0ffdd0f08081d8810ad25751cd.jpg",
+        "4": "http:\/\/media.incuclothing.com\/cache\/55\/39\/553979f91c5dc79c897e2de07d5f14d9.jpg"
     },
     "price": "$89.00",
     "designer": "Saturdays Surf NYC",
@@ -21,5 +21,5 @@
     ],
     "store": "Incu Men",
     "category": "clothes",
-    "spec_cat": "shorts"
+    "spec_cat": "swimwear"
 }

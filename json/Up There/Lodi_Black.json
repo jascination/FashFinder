@@ -1,0 +1,25 @@
+{
+    "name": "Lodi Black",
+    "systemName": "Lodi_Black",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/lodi-black",
+    "description": "Lodi Shirt. Blue.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/deluxe-ss13-lodi-dot-shirt-black-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-black-2.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-black-3.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-black-4.jpg",
+        "\/sites\/default\/files\/deluxe-ss13-lodi-dot-shirt-black-5.jpg"
+    ],
+    "price": "180.00AUD",
+    "designer": "Deluxe",
+    "allImgPaths": [
+        "img\/Up There\/Lodi_Black_0.jpg",
+        "img\/Up There\/\/Lodi_Black_1.jpg",
+        "img\/Up There\/\/Lodi_Black_2.jpg",
+        "img\/Up There\/\/Lodi_Black_3.jpg",
+        "img\/Up There\/\/Lodi_Black_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

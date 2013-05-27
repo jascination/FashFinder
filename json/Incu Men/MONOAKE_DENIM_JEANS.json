@@ -3,12 +3,12 @@
     "systemName": "MONOAKE_DENIM_JEANS",
     "infoLink": "http:\/\/www.incuclothing.com\/shop-men\/designer\/vanishing-elephant\/monoake-denim-jeans-olive\/",
     "description": "                 Vanishing Elephant classic 5 pocket dyed denim have a slim straight fit, hidden front zip fly with button fastening at waist, belt loops, VE branded rivets                                               Colour: Olive                                                              ",
-    "mainImage": "\/media\/cache\/d3\/a7\/d3a76d115569e4d3aaceb2c9fb50d4ca.jpg",
+    "mainImage": "http:\/\/media.incuclothing.com\/cache\/d3\/a7\/d3a76d115569e4d3aaceb2c9fb50d4ca.jpg",
     "moreImages": {
-        "1": "\/media\/cache\/7d\/10\/7d10854c98521726239bd75f5a350096.jpg",
-        "2": "\/media\/cache\/49\/e4\/49e4b04543f523b25488219a6a53c669.jpg",
-        "3": "\/media\/cache\/88\/e3\/88e3c89be4a3650e762579c63b31a35b.jpg",
-        "4": "\/media\/cache\/16\/de\/16de32e4b3604fd657c3cbf34407c662.jpg"
+        "1": "http:\/\/media.incuclothing.com\/cache\/7d\/10\/7d10854c98521726239bd75f5a350096.jpg",
+        "2": "http:\/\/media.incuclothing.com\/cache\/49\/e4\/49e4b04543f523b25488219a6a53c669.jpg",
+        "3": "http:\/\/media.incuclothing.com\/cache\/88\/e3\/88e3c89be4a3650e762579c63b31a35b.jpg",
+        "4": "http:\/\/media.incuclothing.com\/cache\/16\/de\/16de32e4b3604fd657c3cbf34407c662.jpg"
     },
     "price": "$160.00",
     "designer": "Vanishing Elephant",
@@ -21,5 +21,5 @@
     ],
     "store": "Incu Men",
     "category": "clothes",
-    "spec_cat": "pants"
+    "spec_cat": "jeans, pants"
 }

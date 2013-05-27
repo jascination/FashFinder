@@ -1,0 +1,25 @@
+{
+    "name": "Panel Shirt Blue",
+    "systemName": "Panel_Shirt_Blue",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/panel-shirt-blue",
+    "description": "Noir Panel Shirt. Blue.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/noir-fw12-panel-shirt-blue-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/noir-fw12-panel-shirt-blue-2.jpg",
+        "\/sites\/default\/files\/noir-fw12-panel-shirt-blue-3.jpg",
+        "\/sites\/default\/files\/noir-fw12-panel-shirt-blue-4.jpg",
+        "\/sites\/default\/files\/noir-fw12-panel-shirt-blue-5.jpg"
+    ],
+    "price": "286.00AUD",
+    "designer": "Noir",
+    "allImgPaths": [
+        "img\/Up There\/Panel_Shirt_Blue_0.jpg",
+        "img\/Up There\/\/Panel_Shirt_Blue_1.jpg",
+        "img\/Up There\/\/Panel_Shirt_Blue_2.jpg",
+        "img\/Up There\/\/Panel_Shirt_Blue_3.jpg",
+        "img\/Up There\/\/Panel_Shirt_Blue_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

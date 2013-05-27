@@ -1,0 +1,25 @@
+{
+    "name": "Dot Four Pack",
+    "systemName": "Dot_Four_Pack",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dot-four-pack",
+    "description": "Relax Socks Dot Four Pack.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-dot-four-pack-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-dot-four-pack-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-four-pack-3.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-four-pack-4.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-four-pack-5.jpg"
+    ],
+    "price": "75.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Dot_Four_Pack_0.jpg",
+        "img\/Up There\/\/Dot_Four_Pack_1.jpg",
+        "img\/Up There\/\/Dot_Four_Pack_2.jpg",
+        "img\/Up There\/\/Dot_Four_Pack_3.jpg",
+        "img\/Up There\/\/Dot_Four_Pack_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}

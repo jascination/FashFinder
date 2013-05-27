@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Shirt Beige $249, Now",
+    "systemName": "Jerry_Shirt_Beige_249_Now",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/jerry-shirt-beige-249-now",
+    "description": "Deluxe Jerry Shirt. Beige.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/deluxe_fw11_jerry_shirt_beige_1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/deluxe_fw11_jerry_shirt_beige_2.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_jerry_shirt_beige_3.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_jerry_shirt_beige_4.jpg",
+        "\/sites\/default\/files\/deluxe_fw11_jerry_shirt_beige_5.jpg"
+    ],
+    "price": "125.00AUD",
+    "designer": "Deluxe",
+    "allImgPaths": [
+        "img\/Up There\/Jerry_Shirt_Beige_249_Now_0.jpg",
+        "img\/Up There\/\/Jerry_Shirt_Beige_249_Now_1.jpg",
+        "img\/Up There\/\/Jerry_Shirt_Beige_249_Now_2.jpg",
+        "img\/Up There\/\/Jerry_Shirt_Beige_249_Now_3.jpg",
+        "img\/Up There\/\/Jerry_Shirt_Beige_249_Now_4.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shirts"
+}

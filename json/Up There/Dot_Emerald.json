@@ -1,0 +1,21 @@
+{
+    "name": "Dot Emerald",
+    "systemName": "Dot_Emerald",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dot-emerald",
+    "description": "Relax Socks Dot Emerald.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/relax-fw12-dot-green-1.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/relax-fw12-dot-green-2.jpg",
+        "\/sites\/default\/files\/relax-fw12-dot-green-3.jpg"
+    ],
+    "price": "20.00AUD",
+    "designer": "Relax",
+    "allImgPaths": [
+        "img\/Up There\/Dot_Emerald_0.jpg",
+        "img\/Up There\/\/Dot_Emerald_1.jpg",
+        "img\/Up There\/\/Dot_Emerald_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "clothes",
+    "spec_cat": "shorts, pants"
+}

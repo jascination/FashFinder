@@ -1,0 +1,21 @@
+{
+    "name": "Dots Socks Red",
+    "systemName": "Dots_Socks_Red",
+    "infoLink": "http:\/\/www.uptherestore.com\/product\/dots-socks-red",
+    "description": "Sunny Sports Dot Socks. Red.",
+    "mainImage": "http:\/\/www.uptherestore.com\/sites\/default\/files\/imagecache\/product_item\/sunny-sports-ss13-dots-socks-red-2.jpg",
+    "moreImages": [
+        "\/sites\/default\/files\/sunny-sports-ss13-dots-socks-red-1.jpg",
+        "\/sites\/default\/files\/sunny-sports-ss13-dots-socks-red-3.jpg"
+    ],
+    "price": "36.00AUD",
+    "designer": "Sunny Sports",
+    "allImgPaths": [
+        "img\/Up There\/Dots_Socks_Red_0.jpg",
+        "img\/Up There\/\/Dots_Socks_Red_1.jpg",
+        "img\/Up There\/\/Dots_Socks_Red_2.jpg"
+    ],
+    "store": "Up There",
+    "category": "accessories",
+    "spec_cat": "socks"
+}
